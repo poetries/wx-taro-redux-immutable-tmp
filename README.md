@@ -1,7 +1,7 @@
-taro-redux-immutable-temp
+taro-redux-immutable-template
 ---
 
-> a simlple tmplate based on taro
+> a simlple template based on taro
 
 **启动项目**
 
